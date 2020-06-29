@@ -163,7 +163,7 @@ class Screen3 extends Component {
         } = this.state;
 
     let telSize = this.state.tel.length; 
-    let nameSize= this.state.fname.length; 
+    let nameSize= this.state.fname.length + this.state.lname.length; 
     let emailSize= this.state.email.length; 
     let interestsListsSize= this.state.interestsLists.length;
     let statesSize= this.state.states.length;
