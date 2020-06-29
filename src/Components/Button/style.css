@@ -1,0 +1,11 @@
+.btn-screen{
+    background-color: #6095c9;
+    border: 1px solid #557089;
+    border-radius:10px;
+    padding:10px 60px;
+    color:rgb(215, 215, 215);
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) 0.4s all;
+  }
+  .btn-screen:hover{
+    background-color: #366390;
+  } 

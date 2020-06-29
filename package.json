@@ -1,0 +1,49 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "^15.0.0 || ^16.0.0",
+    "bootstrap": "4.5.0",
+    "connected-react-router": "6.8.0",
+    "history": "5.0.0",
+    "immer": "^7.0.5",
+    "immutable": "3.8.2",
+    "jquery": "3.5.1",
+    "popper.js": "1.16.1",
+    "prop-types": "15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-hot-loader": "^4.12.21",
+    "react-redux": "7.2.0",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0",
+    "react-slider": "1.0.8",
+    "reactstrap": "8.5.1",
+    "redux": "4.0.5",
+    "seamless-immutable": "7.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "connected-react-router": "^6.8.0",
+    "immer": "^7.0.5",
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
